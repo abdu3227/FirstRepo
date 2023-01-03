@@ -15,6 +15,7 @@
 			<li>You can create files and folders here</li>
 			<li>Feel free to use it as your local development environment</li>
 			<li>hello world</li>
+                        <li>Making some changes to it!!</li>
 		</ul>
 
 		<div id="time">Time right now: <span></span></div>
